@@ -32,7 +32,7 @@ footer {
 }
 
 .error-info {
-    font-family:sans-serif;
+    font-family:'Oswald', sans-serif;
     font-size:5vh;
     color:red;
 }
@@ -59,12 +59,7 @@ footer {
     border:5px solid purple;
 }
 
-footer {
-    background:black;
-}
-
 .trademark {
     font-family:'Roboto Slab', serif;
     font-size:5vh;
-    color:white;
 }
