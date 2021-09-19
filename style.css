@@ -32,6 +32,7 @@ footer {
 }
 
 .error-info {
+    font-family:'Roboto Slab', serif;
     font-size:5vh;
     color:red;
 }
