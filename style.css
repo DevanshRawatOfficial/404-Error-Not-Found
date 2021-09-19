@@ -18,6 +18,7 @@ main {
 }
 
 footer {
+    background:linear-gradient(to right, orange, white, green);
     height:10vh;
     display:flex;
     justify-content: center;
