@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align:center;
+}
+
+body {
+    height:100vh;
+}
+
+main {
+    height:90vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    height:10vh;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.error {
+    font-family: 'Anton', sans-serif;
+    font-size:13vh;
+    color:#000;
+    letter-spacing:3px;
+}
+
+.error-info {
+    font-family:'Oswald', sans-serif;
+    font-size:5vh;
+    color:red;
+}
+
+.error-desc {
+    font-family:'Roboto Slab', serif;
+    font-size:3vh;
+    margin-bottom:10vh;
+}
+
+.btn {
+    font-family:'Roboto Slab', serif;
+    padding:1vh 3vw;
+    background:white;
+    border:5px solid red;
+    border-radius:0px;
+    font-size:3vh;
+}
+
+.btn:hover {
+    color:white;
+    background:black;
+    cursor:pointer;
+    border-color:black;
+}
+
+footer {
+    background:black;
+}
+
+.trademark {
+    font-family:'Roboto Slab', serif;
+    font-size:5vh;
+    color:white;
+}
